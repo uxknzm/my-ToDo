@@ -1,0 +1,11 @@
+.container {
+  max-width: 50%;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  color: gray;
+  text-align: center;
+}
