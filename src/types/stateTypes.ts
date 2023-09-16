@@ -2,7 +2,6 @@ import {Task, Tasks} from "./taskTypes";
 import {Dispatch} from "react";
 
 export type State = {
-    newTask: string;
     tasks: Tasks
 }
 

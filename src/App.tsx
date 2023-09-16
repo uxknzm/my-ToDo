@@ -7,7 +7,6 @@ import TodoList from './components/TodoList';
 import styles from "./App.module.css";
 
 export const initialState: State = {
-  newTask: '',
   tasks: []
 }
 export const ContextApp = React.createContext<Partial<ContextState>>({});
